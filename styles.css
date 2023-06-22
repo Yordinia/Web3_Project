@@ -1,0 +1,45 @@
+body {
+    font-family: Arial, sans-serif;
+    margin: 20px;
+  }
+  
+  h1 {
+    text-align: center;
+  }
+  
+  .artwork {
+    border: 1px solid #ccc;
+    border-radius: 5px;
+    padding: 10px;
+    margin-bottom: 10px;
+  }
+  
+  .artwork img {
+    max-width: 200px;
+    max-height: 200px;
+  }
+  
+  .artwork-title {
+    font-size: 18px;
+    font-weight: bold;
+    margin-bottom: 5px;
+  }
+  
+  .artwork-description {
+    margin-bottom: 10px;
+  }
+  
+  .artwork-price {
+    font-weight: bold;
+  }
+  
+  .artwork-owner {
+    font-size: 14px;
+    color: #666;
+  }
+  
+  .artwork-button {
+    display: block;
+    margin-top: 10px;
+  }
+  
